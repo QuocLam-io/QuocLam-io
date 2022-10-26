@@ -39,4 +39,4 @@ I'm a software developer, that newly graduated from the SEI immersive held at Ge
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Jeffrod1098"><img src="https://github-readme-stats.vercel.app/api?username=Jeffrod1098&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="Jeffrod1098's GitHub stats" /></a>
+<a href="https://github.com/QuocLam-io"><img src="https://github-readme-stats.vercel.app/api?username=Jeffrod1098&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="Jeffrod1098's GitHub stats" /></a>
