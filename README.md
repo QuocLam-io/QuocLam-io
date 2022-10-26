@@ -8,7 +8,7 @@ Software Developer
 I'm a software developer, that newly graduated from the SEI immersive held at General Assembly. I'm a former Health Inspector with a background in Nutrition. I have a high drive for learning new things and diversifying my knowledge. I'm an avid gamer and fried chicken enthusiast.
 
 * 🌍  I'm based in New York City
-* 🖥️  See my portfolio at [https://quoclam-io.netlify.app/)
+* 🖥️  See my portfolio at [https://quoclam-io.netlify.app/]
 * ✉️  You can contact me at [lamquoc.24@gmail.com](mailto:lamquoc.24@gmail.com)
 * 🚀  I'm currently working on incorporating Redux into MacroDaddy [(Repo link)](https://github.com/QuocLam-io/MacroDaddy)
 * 🧠  I'm currently learning Typescript, Jest and AWS
