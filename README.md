@@ -9,10 +9,11 @@ I'm a software developer, that newly graduated from the SEI immersive held at Ge
 
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [https://quoclam-io.netlify.app/]
-* ✉️  You can contact me at [lamquoc.24@gmail.com](mailto:lamquoc.24@gmail.com)
+* ✉️   You can contact me at [lamquoc.24@gmail.com](mailto:lamquoc.24@gmail.com)
 * 🚀  I'm currently working on incorporating Redux into MacroDaddy [(Repo link)](https://github.com/QuocLam-io/MacroDaddy)
+* 🤓  Self-taught: Redux
 * 🧠  I'm currently learning Typescript, Jest and AWS
-* ⚡  Always digging around to find new technologies to keep my self DRY
+* ⚡   Always digging around to find new technologies to keep my self DRY
 
 ### Skills
 
