@@ -37,6 +37,7 @@ I'm a software developer, that newly graduated from the SEI immersive held at Ge
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/lam-quoc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://quoclam-io.netlify.app/" target="_blank" rel="noreferrer"><img src="https://static.thenounproject.com/png/1378900-200.png" width="32" height="32" /></a></p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubal-agrawal/)]
 
 ### Badges
 
