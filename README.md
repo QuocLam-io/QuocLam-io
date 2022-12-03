@@ -11,7 +11,7 @@ I'm a software developer, that newly graduated from the SEI immersive held at Ge
 * 🖥️  See my portfolio at [https://quoclam-io.netlify.app/]
 * 🚀  I'm currently working on incorporating Redux into MacroDaddy [(Repo link)](https://github.com/QuocLam-io/MacroDaddy)
 * 🤓  Self-taught: Redux
-* 🧠  I'm currently learning Typescript, Jest, and AWS
+* 🧠  I'm currently learning Typescript, Jest, Terraform, and AWS
 * ✉️   You can contact me at [lamquoc.24@gmail.com](mailto:lamquoc.24@gmail.com)
 
 ### Skills
