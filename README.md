@@ -37,8 +37,8 @@ I'm a software developer, that newly graduated from the SEI immersive held at Ge
 
 <p align="left"> <a href="https://www.linkedin.com/in/lam-quoc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://quoclam-io.netlify.app/" target="_blank" rel="noreferrer"><img src="https://static.thenounproject.com/png/1378900-200.png" width="32" height="32" /></a></p>
 
-### Badges
+<!-- ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/QuocLam-io"><img src="https://github-readme-stats.vercel.app/api?username=Quoclam-io&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="Jeffrod1098's GitHub stats" /></a>
+<a href="https://github.com/QuocLam-io"><img src="https://github-readme-stats.vercel.app/api?username=Quoclam-io&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="Jeffrod1098's GitHub stats" /></a> -->
