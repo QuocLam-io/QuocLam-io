@@ -9,8 +9,8 @@ I'm a software developer, that newly graduated from the SEI immersive held at Ge
 
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [https://quoclam-io.netlify.app/]
-* 🚀  I'm currently migrating my Astro Boy project to Typescript!
-* 🧠  I'm currently learning Typescript, Terraform, and AWS
+<!-- * 🚀  I'm currently migrating my Astro Boy project to Typescript! -->
+* 🧠  I'm currently learning Next.js, Terraform, and AWS
 * ✉️   You can contact me at [lamquoc.24@gmail.com](mailto:lamquoc.24@gmail.com)
 
 ### Skills
