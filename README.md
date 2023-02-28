@@ -5,7 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a software developer, that newly graduated from the SEI immersive held at General Assembly. I'm a former Health Inspector with a background in Nutrition. I have a high drive for learning new things and diversifying my knowledge. I'm an avid gamer and fried chicken enthusiast.
+As a skilled software engineer, I am adept at using a variety of tools and resources to solve problems and execute projects with precision. I am experienced in Typescript, React, Redux, JavaScript, HTML, CSS, PostgreSQL, and MongoDB. However, I am highly trainable and able to quickly learn new technologies, even those with a steep learning curve.
+
+In addition to my technical expertise, I have a strong problem-solving approach that is fueled by my curiosity. This allows me to approach projects with creativity and attention to detail, ensuring that I deliver high-quality work that meets the needs of my team and department.
 
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [https://quoclam-io.netlify.app/]
