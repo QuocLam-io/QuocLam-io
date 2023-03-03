@@ -11,8 +11,8 @@ In addition to my technical expertise, I have a strong problem-solving approach 
 
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [https://quoclam-io.netlify.app/]
-<!-- * 🚀  I'm currently migrating my Astro Boy project to Typescript! -->
-* 🧠  I'm currently learning Next.js, Terraform, and AWS
+* 🚀  I'm currently experimenting Next.js13!
+* 🧠  I'm currently learning Terraform and AWS
 * ✉️   You can contact me at [lamquoc.24@gmail.com](mailto:lamquoc.24@gmail.com)
 
 ### Skills
