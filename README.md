@@ -11,8 +11,7 @@ In addition to my technical expertise, I have a strong problem-solving approach 
 
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [https://quoclam-io.netlify.app/]
-* 🚀  I'm currently experimenting with Next.js 13!
-* 🧠  I'm currently learning Terraform and AWS
+* 🧠  I'm currently learning C# :D
 * ✉️   You can contact me at [lamquoc.24@gmail.com](mailto:lamquoc.24@gmail.com)
 
 ### Skills
