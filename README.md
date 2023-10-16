@@ -2,7 +2,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 =========================================================================================================================================
 
 
-Software Developer
+Frontend Engineer
 ------------------
 
 As a skilled software engineer, I am adept at using a variety of tools and resources to solve problems and execute projects with precision. I am experienced in Typescript, React, Redux, JavaScript, HTML, CSS, PostgreSQL, and MongoDB. However, I am highly trainable and able to quickly learn new technologies, even those with a steep learning curve.
