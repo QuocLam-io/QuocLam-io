@@ -8,7 +8,7 @@ Frontend Engineer
 
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [https://quoclam-io.netlify.app/]
-* 🧠  Currently experimenting with React Native :D
+* 🧠  Currently experimenting with React Native
 * ✉️   You can contact me at [lamquoc.24@gmail.com](mailto:lamquoc.24@gmail.com)
 
 ### Skills
