@@ -7,8 +7,8 @@ Frontend Engineer
 
 
 * 🌍  I'm based in New York City
-* 🖥️  Currently working on a new portfolio but enjoy my old one at [https://quoclam-io.netlify.app/]
-* 🧠  Currently learning Machine Learning
+* 🖥️  Enjoy my portfolio at [https://quoclam-io.netlify.app/]
+* 🧠  Currently on creating an iPhone widget
 * ✉️   You can contact me at [lamquoc.24@gmail.com](mailto:lamquoc.24@gmail.com)
 
 ### Skills
