@@ -8,7 +8,7 @@ Frontend Engineer
 
 * 🌍  I'm based in New York City
 * 🖥️  Enjoy my portfolio at [https://quoclam-io.netlify.app/]
-* 🧠  Currently working on creating a Swift app
+* 🧠  Currently creating a personal Design System MCP
 * ✉️   You can contact me at [lamquoc.24@gmail.com](mailto:lamquoc.24@gmail.com)
 
 ### Skills
