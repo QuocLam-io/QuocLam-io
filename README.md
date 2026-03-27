@@ -14,8 +14,6 @@
 
 ### &nbsp;GitHub Activity
 
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=QuocLam-io&show_icons=true&count_private=true&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6&bg_color=0d1117&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=QuocLam-io&show_icons=true&count_private=true&title_color=14b8a6&text_color=24292f&icon_color=14b8a6&bg_color=ffffff&hide_border=true" height="180" alt="GitHub Stats" />
