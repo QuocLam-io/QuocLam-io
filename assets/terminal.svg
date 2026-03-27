@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 270" fill="none">
+  <defs>
+    <style>
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      .cursor { animation: blink 1.2s step-end infinite; }
+    </style>
+  </defs>
+
+  <!-- Window background -->
+  <rect width="850" height="270" rx="10" fill="#0d1117"/>
+
+  <!-- Title bar -->
+  <rect width="850" height="38" rx="10" fill="#161b22"/>
+  <rect y="28" width="850" height="10" fill="#161b22"/>
+
+  <!-- Traffic lights -->
+  <circle cx="24" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="19" r="6" fill="#28c840"/>
+
+  <!-- Title -->
+  <text x="425" y="24" text-anchor="middle" fill="#6e7681" font-family="'Courier New', monospace" font-size="12">quoclam — zsh — 80x24</text>
+
+  <!-- Line 1: cat about.md -->
+  <text x="24" y="68" font-family="'Courier New', monospace" font-size="13">
+    <tspan fill="#14b8a6">quoclam@nyc</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#14b8a6">~</tspan><tspan fill="#6e7681">$ </tspan><tspan fill="#c9d1d9">cat about.md</tspan>
+  </text>
+
+  <!-- Output block -->
+  <text x="40" y="100" font-family="'Courier New', monospace" font-size="13">
+    <tspan fill="#6e7681">▸ </tspan><tspan fill="#c9d1d9">Frontend Engineer obsessed with pixel-perfect interfaces.</tspan>
+  </text>
+  <text x="40" y="122" font-family="'Courier New', monospace" font-size="13">
+    <tspan fill="#6e7681">▸ </tspan><tspan fill="#c9d1d9">Based in </tspan><tspan fill="#14b8a6">New York City</tspan><tspan fill="#c9d1d9">.</tspan>
+  </text>
+  <text x="40" y="144" font-family="'Courier New', monospace" font-size="13">
+    <tspan fill="#6e7681">▸ </tspan><tspan fill="#c9d1d9">Currently building a personal </tspan><tspan fill="#14b8a6">Design System MCP</tspan><tspan fill="#c9d1d9">.</tspan>
+  </text>
+
+  <!-- Line 2: echo $OPEN_TO -->
+  <text x="24" y="182" font-family="'Courier New', monospace" font-size="13">
+    <tspan fill="#14b8a6">quoclam@nyc</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#14b8a6">~</tspan><tspan fill="#6e7681">$ </tspan><tspan fill="#c9d1d9">echo $OPEN_TO</tspan>
+  </text>
+
+  <text x="40" y="206" font-family="'Courier New', monospace" font-size="13" fill="#c9d1d9">collaboration · creative projects · new opportunities</text>
+
+  <!-- Final prompt + blinking cursor -->
+  <text x="24" y="244" font-family="'Courier New', monospace" font-size="13">
+    <tspan fill="#14b8a6">quoclam@nyc</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#14b8a6">~</tspan><tspan fill="#6e7681">$ </tspan>
+  </text>
+  <rect class="cursor" x="150" y="232" width="8" height="15" fill="#14b8a6"/>
+</svg>
